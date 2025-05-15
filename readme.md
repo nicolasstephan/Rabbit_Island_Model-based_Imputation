@@ -1,5 +1,6 @@
 
 ## Model based imputation for a plant species survey conducted on Rabbit Island, Michigan.
+![Presentation Mid Project Ironhack Rabbit Island 06](https://github.com/user-attachments/assets/6a064f75-18a7-4074-a285-a5db6ad6bb05)
 
 
 This Jupyter Notebook documents the process of handling and imputing missing data from an ecological survey conducted on Rabbit Island, located in Lake Superior. The survey includes data on various environmental and biological variables collected during fieldwork.
